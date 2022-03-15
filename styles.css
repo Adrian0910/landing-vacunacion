@@ -55,4 +55,18 @@
     box-shadow: inset 0 0 1px black;
   }
 
+  .home_content{
+      display: flex;
+      background-color: yellowgreen;
+      
+  }
+  .home__info{
+    flex-grow: 1;
+    background-color: #3656d4;
+    
+  }
+  .home__image{
+    flex-grow: 1;
+    background-color: aqua;
+  }
  
